@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "manga-translator@claude-random": {
+      "updates": [
+        {
+          "version": "0.4.6",
+          "update_link": "https://raw.githubusercontent.com/IEM-fan/manga-translator-updates/main/manga-translator-0.4.6.xpi",
+          "update_hash": "sha256:91cbf3894738f66c1b78016a2ca0089d499171f9efffad96e1e3f12fad349f84",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
